@@ -1,14 +1,27 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-package utp.mains;
-import utp.shapes.*;
-import java.util.Scanner;
+ *
+Aurelia Callysta Mamahit - 245150700111024
+
+   #    #     # ######  ####### #       ###    #    
+  # #   #     # #     # #       #        #    # #   
+ #   #  #     # #     # #       #        #   #   #  
+#     # #     # ######  #####   #        #  #     # 
+####### #     # #   #   #       #        #  ####### 
+#     # #     # #    #  #       #        #  #     # 
+#     #  #####  #     # ####### ####### ### #     # 
+                                                    
+/
+
 /**
  *
  * @author Aurel
  */
+package utp.mains;
+import java.util.Scanner;
+import utp.shapes.*;
+
 public class Main {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
